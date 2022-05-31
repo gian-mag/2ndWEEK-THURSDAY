@@ -35,6 +35,8 @@ header nav ul {
 header nav li {
     list-style: none;
     display: inline;
+    float: left;
+    width: 33.33%;
 }
 header nav li a {
     color: white;
@@ -59,7 +61,7 @@ main {
     border: 4px solid #0099cc;
     outline: 4px solid  #aa2277;
     margin-right: 20px;
-    padding: 3px;
+    padding: 5px;
 }
 section { 
     background-color: #e3e3e3;
